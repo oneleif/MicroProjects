@@ -27,7 +27,7 @@ cat file.txt | xargs ./add
 Addition : 22.2
 ```
 
-#### Examples
+**Examples**
 
 - [Rust](https://github.com/parshav/add)
 - [Swift](https://github.com/0xLeif/add)
